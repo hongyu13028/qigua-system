@@ -28,8 +28,8 @@ python qigua.py --coins 1 1 0 0 1 0 --change 4 --question "我该不该招这个
 
 ## 跨设备同步
 
-- 本仓库已推送 GitHub: `https://github.com/hongyu13028/qigua-system` (私有)
-- 公司电脑 + 家里电脑 + 手机 (GitHub App) 三端共享
+- 本仓库已推送 Gitee: `https://gitee.com/yaofeng-huang/qigua-system` (私有)
+- 公司电脑 + 家里电脑 + 手机 (Gitee App) 三端共享
 - 更新流程: 改完代码 → `git add .` → `git commit -m "..."` → `git push`
 - 拉取: `git pull`
 
@@ -38,6 +38,7 @@ python qigua.py --coins 1 1 0 0 1 0 --change 4 --question "我该不该招这个
 - Python 3.10+ (无第三方依赖)
 - Git
 - 任意 LLM (ChatGPT / Claude / 通义 / MiniMax Code)
+- 代码托管: Gitee (公司网络可访问) / GitHub (家里网络可访问)
 
 ## 项目结构
 
