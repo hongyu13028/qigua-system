@@ -65,24 +65,6 @@ qigua-system/
 
 ---
 
-##商业化变体（qigua-pro）
-
-本仓库是黄总私用的轻量版。商业化版本独立发布：
-
-- **Mavis skill 市场**：`~/.mavis/agents/mavis/skills/qigua-pro/`（Mavis 内置市场销售）
-- **GitHub公开仓库**：https://github.com/yaofeng-huang/qigua-pro（待黄总家里 push）
-- **本地准备位置**：`D:\qigua-pro\`（公司电脑已建好，含 README + LICENSE +完整产品）
-
-定价策略：
-- ¥3.9 单次起卦
-- **¥29.9/月 主推**（打工人价位）
-- ¥199/年锚定
-- ¥1999/年 企业版
-
-目标客户：普通个人 + 中小老板 +创业者
-
----
-
 **版本**: v2.0
 **最新更新**:2026-06-10
 **作者**: 黄耀锋 (科盈信息技术) + Mavis (Mavis)
